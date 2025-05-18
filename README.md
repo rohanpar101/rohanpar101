@@ -18,7 +18,7 @@
  - **Programming Languages:** C/C++ Python, JavaScript, Java
  - **Web Development:** HTML, CSS, React
  - **Other:** SQL, AWS, Git
- - **Resume:** <a href="https://drive.google.com/file/d/1Lh2bAfRDo-RkktLgZqbtlwQz2pAmod8W/view?usp=sharing" target="_blank">Click Me</a>
+ - **Resume:** <p><a href="https://drive.google.com/file/d/1Lh2bAfRDo-RkktLgZqbtlwQz2pAmod8W/view?usp=sharing" target="_blank" rel="noopener noreferrer">Click Me</a></p>
  - **Contact Me:** rohanpar@umich.edu
 
 ### 🗣️ My Intrests 🗣️
