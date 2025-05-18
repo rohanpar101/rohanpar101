@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello! I'm Rohan Parikh!
 
-<!--
-**rohanpar101/rohanpar101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏫 Education 🏫
+- **School:** University of Michigan - Ann Arbor
+- **Majors:** Computer Science and Industrial & Operations Engineering
+- **Expected Graduation:** April 2027
+- **Relevant Coursework:**
+  - EECS 281 - Data Structures and Algorithms
+  - EECS 485 - Web Systems
+  - EECS 370 - Computer Organization
+  - EECS 376 - Foundations of Computer Science
+  - EECS 203 - Discrete Mathematics
+  - IOE 316 - Introduction to Markov Processes
+  - IOE 410 - Advanced Optimization and Computational Methods
 
-Here are some ideas to get you started:
+### 💻 About Me 💻
+ - **Experience:** Software Engineering Intern @ KLA (S25), Technology Intern @ KPMG (S24)
+ - **Programming Languages:** C/C++ Python, JavaScript, Java
+ - **Web Development:** HTML, CSS, React
+ - **Other:** SQL, AWS, Git
+ - **Resume:** [Click Me](https://drive.google.com/file/d/1_6WrcThhr8_A3eS5kbVs23KXIcsqTcRB/view?usp=sharing)
+ - **Contact Me:** rohanpar@umich.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗣️ My Intrests 🗣️
+ -  Avid golfer and pickleball player. Detroit sports enthusiast. Love to travel, hike, and visit national parks
+ -  Organized 5 charity golf outings raising over $10000 in total for underprivileged robotics teams & Alternatives for Girls
