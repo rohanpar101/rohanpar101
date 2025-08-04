@@ -15,8 +15,8 @@
 
 ### 💻 About Me 💻
  - **Experience:** Software Engineering Intern @ KLA (S25), Technology Intern @ KPMG (S24)
- - **Programming Languages:** C++, Python, JavaScript, Java, HTML, CSS, SQL 
- - **Technologies:** React, Flask, Git, Docker, Node.js, Linux
+ - **Programming Languages:** C++, Python, JavaScript / TypeScript, Java, SQL
+ - **Technologies:** React, Flask, Git, Docker, Node.js, Linux, AWS, Excel VBA, HTML/CSS, Figma, Arduino
  - **Resume:** [Click Me](https://drive.google.com/file/d/1tjn1DvgznWSc2ydSeht8oFGeCU-LODeA/view?usp=sharing)
  - **Contact Me:** rohanpar@umich.edu
 
